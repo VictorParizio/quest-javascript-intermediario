@@ -23,7 +23,8 @@ body {
 }
 
 .formulario input,
-.formulario textarea {
+.formulario textarea,
+.formulario .botao {
     width: 300px;
     height: 35px;
     border: 1px solid rgb(0, 0, 0);
