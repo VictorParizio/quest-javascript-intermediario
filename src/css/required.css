@@ -1,5 +1,5 @@
 .formulario .invalido {
-    border: solid 2px hsl(0, 91%, 57%);
+    border: solid 2px var(--required);
     margin-bottom: 0;
 }
 
@@ -9,11 +9,11 @@
 }
 
 .formulario span.obrigatorio {
-    color: hsl(0, 91%, 57%);
+    color: var(--required);
     margin-bottom: 15px;
     display: block;
 }
 
 .formulario .valido {
-    border: solid 2px hsl(133, 100%, 38%);
+    border: solid 2px var(--valido)
 }

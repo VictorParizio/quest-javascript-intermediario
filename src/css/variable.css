@@ -1,0 +1,6 @@
+:root {
+    --destaque: rgb(255, 255, 255);
+    --botao: rgb(60, 204, 135);
+    --required: hsl(0, 91%, 57%);
+    --valido: hsl(133, 100%, 38%);
+}
