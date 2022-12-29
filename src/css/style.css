@@ -16,10 +16,6 @@ body {
     margin-bottom: 10px;
 }
 
-.informacoes p {
-    font-size: 1.5rem;
-}
-
 .formulario {
     background-color: rgb(255, 255, 255);
     width: 340px;
@@ -44,10 +40,6 @@ body {
 .formulario textarea {
     height: 100px;
     resize: none;
-}
-
-.formulario p {
-    font-size: 1.5rem;
 }
 
 .formulario .botao {
